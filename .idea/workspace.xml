@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="WebServer" targetName="WebServer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="795ab8e8-906e-430c-b217-0a67c7e12183" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/buffer/buffer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/buffer/buffer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/buffer/buffer.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/buffer/buffer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/config/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/config/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/httpconn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/http/httpconn.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/httpconn.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/http/httpconn.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/httprequest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/http/httprequest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/httprequest.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/http/httprequest.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/httpresponse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/http/httpresponse.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/httpresponse.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/http/httpresponse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/http/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/http/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/log/blockqueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/log/blockqueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/log/log.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/log/log.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/log/log.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/log/log.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/log/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/log/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pool/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/pool/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pool/sqlconnRAII.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/pool/sqlconnRAII.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pool/sqlconnpool.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/pool/sqlconnpool.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pool/sqlconnpool.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/pool/sqlconnpool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/pool/threadpool.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/pool/threadpool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/server/epoller.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/server/epoller.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/server/epoller.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/server/epoller.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/server/webserver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/server/webserver.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/server/webserver.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/server/webserver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/timer/heaptimer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/timer/heaptimer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/timer/heaptimer.h" beforeDir="false" afterPath="$PROJECT_DIR$/code/include/timer/heaptimer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/timer/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/timer/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tW9QXOXWjx0WALewZxRagttPFt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/include/log" />
+      <recent name="$PROJECT_DIR$/code" />
+      <recent name="$PROJECT_DIR$/code/src" />
+      <recent name="$PROJECT_DIR$/code/include/timer" />
+      <recent name="$PROJECT_DIR$/code/include/server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebServer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WebServer" TARGET_NAME="WebServer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="WebServer" RUN_TARGET_NAME="WebServer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="795ab8e8-906e-430c-b217-0a67c7e12183" name="Default Changelist" comment="" />
+      <created>1622873963192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622873963192</updated>
+      <workItem from="1622873964398" duration="3917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
